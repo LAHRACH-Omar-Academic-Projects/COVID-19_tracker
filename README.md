@@ -1,4 +1,5 @@
-## Covid-19 Tracker
-##### React native GPS based app for tracking infected people
+## COVID-19 Tracker
+##### COVID-19 Tracker is a GPS based app for tracking infected people
 
-Statistics, display infected people position warnings, for users and polices
+COVID-19 Statistics, display the position of infected people, follow their trajectory, get warnings etc...
+this app is designated for polices
